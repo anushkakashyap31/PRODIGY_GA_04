@@ -30,6 +30,7 @@ Due to GitHub size limits, some files are stored externally:
 ### **💬 How to Use**
 
 1️⃣ Open the Notebook in Google Colab: [🔗][https://colab.research.google.com/drive/1_QoG9N5Pp9mpkGCDn3axE-3cMxzr4Zu0#scrollTo=gtleOVcswnwq]
+[https://colab.research.google.com/drive/1_QoG9N5Pp9mpkGCDn3axE-3cMxzr4Zu0?usp=sharing]
 Upload and open Task4_pix2pix.ipynb
 
 2️⃣ Run All Cells Sequentially:
